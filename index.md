@@ -10,7 +10,7 @@ Vi har nu varit i kontakt med Södra maltbryggeriet i stockholm och har fått en
 
 ### Kalkylen
 
-Offerten från bryggeriet rör 5500 flaskor (ca: 230 flak) och priset per flaska kommer att vara 29.90 (24 flaskor minsta beställning). CL kommer att stå för recept och namngivning av ölet liksom utformning av ettiketterna. Det ligger sedan i investerarnas intresse att ölet säljs för att kunna få tillbaka sina pengar. 
+Offerten från bryggeriet rör 5500 flaskor (ca: 230 flak) och priset per flaska kommer att vara 24.90 (24 flaskor minsta beställning). CL kommer att stå för recept och namngivning av ölet liksom utformning av ettiketterna. Det ligger sedan i investerarnas intresse att ölet säljs för att kunna få tillbaka sina pengar. 
 Vi söker losers som kan tänka sig att gå in med 10 000 eller 15 000 tills dess att vi nått upp till det efterfrågade beloppet om 85 000 för att sätta projektet i land. När alla flaskor är sålda kommer Södra maltbryggeriet att betala tillbaka de investerade pengarna plus en bonus om 2 SEK per flaska. Allt som allt kommer alltså varje investerare att göra en vinst på ca 614 SEK per 5000 investerade kronor (ca 12% vinst).
 
 För att uppnå detta målet gäller det dock att vi lyckas sälja flaskorna, vilket vi tror att vi kommer lyckas med med CL:s hjälp. Vi hoppas dels på att en majoritet av alla aktiva losers köper minst ett flak, samtidigt som vi vill att alla förmår sin omgivning att hadla.
@@ -38,6 +38,7 @@ Total tillbaka	96000 (ca 12% vinst)
 
 [Google sheet](https://docs.google.com/spreadsheets/d/16RDzoT2kUlO2YXMpABQ7SCXWx2mqBO8mjk8Z0d9RPgk/edit#gid=0)
 
+Vi har även diskuterat att ha en QR-kod på flaskan som leder till en undersökning där man kan rapportera in sin upplevda baksmälla och därmed ha nån sorts "studie" kopplad till produkten. Kanske tillräckligt mycket för att få medial uppmärksamhet och möjligtvis medial spridning?
 
 ## Lista över investerare
 - #75: 10 000
