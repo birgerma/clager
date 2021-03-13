@@ -45,6 +45,7 @@ Vi har även diskuterat att ha en QR-kod på flaskan som leder till en undersök
 - #76: 10 000
 - #68: 10 000
 - #56: 10 000
+- #62: 10 000
 
 
 ### Support or Contact
