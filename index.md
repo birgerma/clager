@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## CL borde ha en öl!
+När #75 hittade en [finsk studie](https://www2.helsinki.fi/sv/aktuellt/naturvetenskap/aminosyra-lindrade-symptom-pa-baksmalla#:~:text=Forskningsresultat%20bekr%C3%A4ftade%20att%20aminosyran%20L,kosttillskott%20lindrade%20symptomen%20p%C3%A5%20baksm%C3%A4lla.) som tydde på att genom att ta en dos L-Cystein så kunde bakfyllan lindras, så började vi direkt att testa denna hypotesen.
 
-You can use the [editor on GitHub](https://github.com/birgerma/clager/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Efter några blöta kvällar så skapades en rutin av att avsluta med ett par tabletter och efterfrågad effekt märktes direkt. Varför inte ta bort mellanhänderna täkte vi, och tillsatte ämnet redan i bryggprocessen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Stockholmskapitlet har i #75:s källare bryggt öl med L-Cystein i och kan meddela att aminosyrans magiska egenskaper bibehålls även när den är utblandad i ölet. 
 
-### Markdown
+Vi har nu varit i kontakt med Södra maltbryggeriet i stockholm och har fått en offert på att bryggen en lager med L-Cystein i. För att ro detta projekt i land behöver vi både investerare, öldrickare och marknadsförare. Om detta låter intressant, fortsätt läsa!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Kalkylen
 
-# Header 1
-## Header 2
-### Header 3
+Offerten från bryggeriet rör 5500 flaskor (ca: 230 flak) och priset per flaska kommer att vara 29.90 (24 flaskor minsta beställning). CL kommer att stå för recept och namngivning av ölet liksom utformning av ettiketterna. Det ligger sedan i investerarnas intresse att ölet säljs för att kunna få tillbaka sina pengar. 
+Vi söker losers som kan tänka sig att gå in med 10 000 eller 15 000 tills dess att vi nått upp till det efterfrågade beloppet om 85 000 för att sätta projektet i land. När alla flaskor är sålda kommer Södra maltbryggeriet att betala tillbaka de investerade pengarna plus en bonus om 2 SEK per flaska. Allt som allt kommer alltså varje investerare att göra en vinst på ca 647 SEK per 5000 investerade kronor (ca 11% vinst).
 
-- Bulleted
-- List
+För att uppnå detta målet gäller det dock att vi lyckas sälja flaskorna, vilket vi tror att vi kommer lyckas med med CL:s hjälp. Vi hoppas dels på att en majoritet av alla aktiva losers köper minst ett flak, samtidigt som vi vill att alla förmår sin omgivning att hadla.
+Utöver detta kommer vi försöka använda våra kontaker på Chalmers så som Råtta, Delta och DP att plocka in ölet på sina pubbar. Förhoppningen är att de flesta är vaccinerade efter sommaren och att publivet återgår till vad det en gång var. En mer detaljerad kalkyl finner ni nedan:
 
-1. Numbered
-2. List
+| Kostnader                 | SEK           |
+| ------------------------- |:-------------:|
+| Södra maltbryggeriet      | 85 000        |
+| 1 kg L-cystein            | 500           |
 
-**Bold** and _Italic_ and `Code` text
+| Nyckeltal                                 |         |
+| ----------------------------------------- |:-------:|
+| Batchstorlek (flaskor)	                  | 5500    |
+| Antal lådor	                              | 229     |
+| Kostnad per låda (obs minsta beställning) | 597.6   |
+| Flaskkostnad på "hyllan"	                | 24.9    |
+	
+Total tillbaka	96000 (ca 11% vinst)
 
-[Link](url) and ![Image](src)
-```
+| För investerare	                      | Efter slutsåld batch innan 211231 |
+| Andelskostnad	                        | 5000                              |
+| Återbäring per andel	                | 5647.058824                       |
+| Lådor att sälja per månad	            | 32.73809524                       |
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Google sheet](https://docs.google.com/spreadsheets/d/16RDzoT2kUlO2YXMpABQ7SCXWx2mqBO8mjk8Z0d9RPgk/edit#gid=0)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/birgerma/clager/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Lista över investerare
+- #75: 10 000
+- #76: 10 000
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Om ni har några fler frågor eller funderingar, kontakta #75 eller #76
