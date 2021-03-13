@@ -46,7 +46,7 @@ Vi har även diskuterat att ha en QR-kod på flaskan som leder till en undersök
 - #68: 10 000
 - #56: 10 000
 - #62: 10 000
-- Jessica: 10 000
+- JessiKKKa/T-dawg/T-bone/Big-Jess: 10 000
 
 ### Support or Contact
 
