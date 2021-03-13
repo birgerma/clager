@@ -31,9 +31,10 @@ Utöver detta kommer vi försöka använda våra kontaker på Chalmers så som R
 Total tillbaka	96000 (ca 12% vinst)
 
 | För investerare	                      | Efter slutsåld batch innan 211231 |
-| Andelskostnad	                        | 5000                              |
-| Återbäring per andel	                | 5614.035088                       |
-| Lådor att sälja per månad	            | 32.73809524                       |
+| ------------------------------------------- |:---------------------------------:|
+| Andelskostnad	                              | 5000                              |
+| Återbäring per andel	                      | 5614.035088                       |
+| Lådor att sälja per månad	              | 32.73809524                       |
 
 [Google sheet](https://docs.google.com/spreadsheets/d/16RDzoT2kUlO2YXMpABQ7SCXWx2mqBO8mjk8Z0d9RPgk/edit#gid=0)
 
