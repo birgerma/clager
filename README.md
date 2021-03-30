@@ -30,6 +30,7 @@ Gitrepot ovan kommer att göras publikt för enkelhetens skull och användas fö
 ## Reklam och försäljning:
 * Expressen
 * Beernews
+* Forskning om Hälsa
 
 ## Tidsplan:
 Bryggstart: 31/3 -21
@@ -41,7 +42,3 @@ Bäst före: Maj 2021 (dvs behöver vara sålt innan dess)
 Om man är intresserad av att vara delaktig i något specifikt så skriv upp er på lämplig plats här.
 Specifika frågor hänvisas till #75 och #76
 
-## Publikationer att kontakta:
-BeerNews
-Forskning om Hälsa
-Expressen
