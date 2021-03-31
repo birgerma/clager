@@ -2,6 +2,8 @@ Hej!
 
 Vi skickar med lite vektoriserad grafik på saker som vi vill ha med.
 
+Namnet på ölen är "Kompis #2"
+
 Vi har en QR-kod som leder till vår undersökning som behöver vara med. Den ligger i kompis-undersokning.svg.
 
 Vi tycker att det vore kul att ha molekylen på etiketten, den finns i L-Cystein_-_L-Cysteine.svg.
