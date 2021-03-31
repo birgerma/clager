@@ -1,0 +1,20 @@
+Hej!
+
+Vi skickar med lite vektoriserad grafik på saker som vi vill ha med.
+
+Vi har en QR-kod som leder till vår undersökning som behöver vara med. Den ligger i kompis-undersokning.svg.
+
+Vi tycker att det vore kul att ha molekylen på etiketten, den finns i L-Cystein_-_L-Cysteine.svg.
+
+Sen har vi själva funderat i red.png, white1.jpg och white2.jpg, men det får du gärna bortse från helt och hållet.
+
+Ingrediensförteckningen ska vara:
+
+Ingredienser: Vatten, KORNMALT, Humle, jäst samt N-Acetyl L-Cysteine(NAC)
+
+Konsumentkontakten som ska vara med är: contact@kompis.beer
+
+Vi fick en EAN-kod av bryggeriet, men är inte säkra på att det är den som gäller. Filen heter 7350060691308.pdf
+
+
+
