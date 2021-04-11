@@ -42,6 +42,7 @@ Bäst före: Maj 2021 (dvs behöver vara sålt innan dess)
 
 * Hjälper de som blir bakis av mer än fyra öl
 * God!
+* Delta i en undersökning om L-cysteins egenskaper
 
 
 Om man är intresserad av att vara delaktig i något specifikt så skriv upp er på lämplig plats här.
