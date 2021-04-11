@@ -38,6 +38,11 @@ Hos bolaget (beställningsssortiment): Mitten av maj
 Bäst före: Maj 2021 (dvs behöver vara sålt innan dess)
 
 
+## Talking points
+
+* Hjälper de som blir bakis av mer än fyra öl
+* God!
+
 
 Om man är intresserad av att vara delaktig i något specifikt så skriv upp er på lämplig plats här.
 Specifika frågor hänvisas till #75 och #76
